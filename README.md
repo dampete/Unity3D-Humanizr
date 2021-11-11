@@ -1,3 +1,5 @@
+Forked project to fix annoying .meta file error.
+
 <p><img src="https://raw.github.com/Humanizr/Humanizer/master/logo.png" alt="Logo" style="max-width:100%;" /></p>
 
 [<img align="right" width="100px" src="https://dotnetfoundation.org/img/logo_big.svg" />](https://dotnetfoundation.org/projects?type=project&q=humanizer)
